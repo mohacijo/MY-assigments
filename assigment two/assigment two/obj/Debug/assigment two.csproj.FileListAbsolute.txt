@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\bin\Debug\assigment two.exe.config
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\bin\Debug\assigment two.exe
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\bin\Debug\assigment two.pdb
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\obj\Debug\assigment two.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\obj\Debug\assigment_two.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\obj\Debug\assigment_two.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\obj\Debug\assigment two.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\obj\Debug\assigment two.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\obj\Debug\assigment two.exe
+C:\Users\DELL\OneDrive\Desktop\assigment two\assigment two\obj\Debug\assigment two.pdb
