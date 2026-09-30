@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace assigment_three.Properties
+namespace assigment3.Properties
 {
 
 

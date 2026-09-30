@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{87821A10-4116-41C7-8015-1F1C5C5F2437}</ProjectGuid>
+    <ProjectGuid>{618B4CAC-077F-4EDB-A889-F80865919EAC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>assigment_three</RootNamespace>
-    <AssemblyName>assigment three</AssemblyName>
+    <RootNamespace>assigment3</RootNamespace>
+    <AssemblyName>assigment3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
