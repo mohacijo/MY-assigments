@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\bin\Debug\assigment three.exe.config
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\bin\Debug\assigment three.exe
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\bin\Debug\assigment three.pdb
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\obj\Debug\assigment three.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\obj\Debug\assigment_three.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\obj\Debug\assigment_three.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\obj\Debug\assigment three.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\obj\Debug\assigment three.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\obj\Debug\assigment three.exe
+C:\Users\DELL\OneDrive\Desktop\assigment three\assigment three\assigment three\obj\Debug\assigment three.pdb
