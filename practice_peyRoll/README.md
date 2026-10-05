@@ -70,7 +70,7 @@ lblcalculate.Text = grosspay.ToString("c");
 
 The `"c"` means **currency format**, so the result will be displayed as money.
 
-**Clear button**.
+# Clear button.
 textHourworked.Clear();
 textPeyrate.Clear();
 lblcalculate.Text = "";
@@ -78,11 +78,11 @@ lblcalculate.Text = "";
 
 When the user clicks Clear, the input fields and the result are removed.
 
- **Close button**:
+ # Close button:
 Application.Exit();
 This closes the application.
 
-### Conclusion
+## Conclusion
 
 In this project, I learned how to use variables, input validation, TryParse, if statements, calculations, event handling, Windows Forms controls, and currency formatting in C# .
 
