@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Desktop\practice\practice\bin\Debug\practice.exe.config
+C:\Users\DELL\OneDrive\Desktop\practice\practice\bin\Debug\practice.exe
+C:\Users\DELL\OneDrive\Desktop\practice\practice\bin\Debug\practice.pdb
+C:\Users\DELL\OneDrive\Desktop\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\practice\practice\obj\Debug\practice.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\practice\practice\obj\Debug\practice.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\practice\practice\obj\Debug\practice.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\practice\practice\obj\Debug\practice.exe
+C:\Users\DELL\OneDrive\Desktop\practice\practice\obj\Debug\practice.pdb

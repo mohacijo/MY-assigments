@@ -8,3 +8,13 @@ C:\Users\DELL\OneDrive\Desktop\assigment3\assigment3\obj\Debug\assigment3.csproj
 C:\Users\DELL\OneDrive\Desktop\assigment3\assigment3\obj\Debug\assigment3.csproj.CoreCompileInputs.cache
 C:\Users\DELL\OneDrive\Desktop\assigment3\assigment3\obj\Debug\assigment3.exe
 C:\Users\DELL\OneDrive\Desktop\assigment3\assigment3\obj\Debug\assigment3.pdb
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\bin\Debug\assigment3.exe.config
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\bin\Debug\assigment3.exe
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\bin\Debug\assigment3.pdb
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\obj\Debug\assigment3.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\obj\Debug\assigment3.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\obj\Debug\assigment3.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\obj\Debug\assigment3.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\obj\Debug\assigment3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\obj\Debug\assigment3.exe
+C:\Users\DELL\OneDrive\Desktop\c#Assigments\MY assigments\assigment3\assigment3\obj\Debug\assigment3.pdb

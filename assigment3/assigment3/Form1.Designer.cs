@@ -126,7 +126,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(191, 910);
+            this.label5.Location = new System.Drawing.Point(130, 941);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(349, 37);
             this.label5.TabIndex = 9;
@@ -135,7 +135,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(191, 994);
+            this.label6.Location = new System.Drawing.Point(283, 1025);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(196, 37);
             this.label6.TabIndex = 10;
@@ -145,7 +145,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(201, 1083);
+            this.label7.Location = new System.Drawing.Point(330, 1114);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(149, 37);
             this.label7.TabIndex = 11;
@@ -172,7 +172,7 @@
             this.Totalbill.Location = new System.Drawing.Point(586, 1080);
             this.Totalbill.Multiline = true;
             this.Totalbill.Name = "Totalbill";
-            this.Totalbill.Size = new System.Drawing.Size(431, 79);
+            this.Totalbill.Size = new System.Drawing.Size(431, 153);
             this.Totalbill.TabIndex = 14;
             // 
             // Form1
@@ -180,7 +180,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(19F, 37F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.ClientSize = new System.Drawing.Size(2051, 1206);
+            this.ClientSize = new System.Drawing.Size(2230, 1390);
             this.Controls.Add(this.Totalbill);
             this.Controls.Add(this.Taxamount);
             this.Controls.Add(this.textElectricity);

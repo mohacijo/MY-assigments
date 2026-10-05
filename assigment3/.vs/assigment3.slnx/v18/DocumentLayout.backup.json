@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\assigment3\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\c#Assigments\\MY assigments\\assigment3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{618B4CAC-077F-4EDB-A889-F80865919EAC}|assigment3\\assigment3.csproj|c:\\users\\dell\\onedrive\\desktop\\assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{618B4CAC-077F-4EDB-A889-F80865919EAC}|assigment3\\assigment3.csproj|c:\\users\\dell\\onedrive\\desktop\\c#assigments\\my assigments\\assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{618B4CAC-077F-4EDB-A889-F80865919EAC}|assigment3\\assigment3.csproj|solutionrelative:assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{618B4CAC-077F-4EDB-A889-F80865919EAC}|assigment3\\assigment3.csproj|c:\\users\\dell\\onedrive\\desktop\\assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{618B4CAC-077F-4EDB-A889-F80865919EAC}|assigment3\\assigment3.csproj|C:\\Users\\DELL\\OneDrive\\Desktop\\c#Assigments\\MY assigments\\assigment3\\assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{618B4CAC-077F-4EDB-A889-F80865919EAC}|assigment3\\assigment3.csproj|solutionrelative:assigment3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\assigment3\\assigment3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\c#Assigments\\MY assigments\\assigment3\\assigment3\\Form1.cs",
               "RelativeDocumentMoniker": "assigment3\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\assigment3\\assigment3\\Form1.cs*",
-              "RelativeToolTip": "assigment3\\Form1.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwDUAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\c#Assigments\\MY assigments\\assigment3\\assigment3\\Form1.cs",
+              "RelativeToolTip": "assigment3\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T18:35:45.254Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\assigment3\\assigment3\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\c#Assigments\\MY assigments\\assigment3\\assigment3\\Form1.cs",
               "RelativeDocumentMoniker": "assigment3\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\assigment3\\assigment3\\Form1.cs [Design]*",
-              "RelativeToolTip": "assigment3\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\assigment3\\assigment3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\assigment3\\assigment3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T18:21:41.745Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-30T18:21:41.745Z"
             }
           ]
         }
