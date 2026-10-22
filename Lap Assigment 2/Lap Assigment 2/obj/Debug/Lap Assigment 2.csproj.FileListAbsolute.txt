@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\bin\Debug\Lap Assigment 2.exe.config
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\bin\Debug\Lap Assigment 2.exe
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\bin\Debug\Lap Assigment 2.pdb
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\obj\Debug\Lap Assigment 2.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\obj\Debug\Lap_Assigment_2.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\obj\Debug\Lap_Assigment_2.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\obj\Debug\Lap Assigment 2.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\obj\Debug\Lap Assigment 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\obj\Debug\Lap Assigment 2.exe
+C:\Users\DELL\OneDrive\Desktop\Lap Assigment 2\Lap Assigment 2\obj\Debug\Lap Assigment 2.pdb
