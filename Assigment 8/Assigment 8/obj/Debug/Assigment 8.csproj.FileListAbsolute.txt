@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\bin\Debug\Assigment 8.exe.config
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\bin\Debug\Assigment 8.exe
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\bin\Debug\Assigment 8.pdb
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\obj\Debug\Assigment 8.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\obj\Debug\Assigment_8.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\obj\Debug\Assigment_8.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\obj\Debug\Assigment 8.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\obj\Debug\Assigment 8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\obj\Debug\Assigment 8.exe
+C:\Users\DELL\OneDrive\Desktop\Assigment 8\Assigment 8\obj\Debug\Assigment 8.pdb

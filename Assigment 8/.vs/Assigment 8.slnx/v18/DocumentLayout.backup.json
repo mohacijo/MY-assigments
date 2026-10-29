@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Assigment 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDA52D6-C10B-4A61-B257-91283FF6AB15}|Assigment 8\\Assigment 8.csproj|c:\\users\\dell\\onedrive\\desktop\\assigment 8\\assigment 8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDA52D6-C10B-4A61-B257-91283FF6AB15}|Assigment 8\\Assigment 8.csproj|solutionrelative:assigment 8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDA52D6-C10B-4A61-B257-91283FF6AB15}|Assigment 8\\Assigment 8.csproj|c:\\users\\dell\\onedrive\\desktop\\assigment 8\\assigment 8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CDA52D6-C10B-4A61-B257-91283FF6AB15}|Assigment 8\\Assigment 8.csproj|solutionrelative:assigment 8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Assigment 8\\Assigment 8\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment 8\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Assigment 8\\Assigment 8\\Form1.cs*",
+              "RelativeToolTip": "Assigment 8\\Form1.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAD4v0EAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T12:54:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Assigment 8\\Assigment 8\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment 8\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Assigment 8\\Assigment 8\\Form1.cs [Design]*",
+              "RelativeToolTip": "Assigment 8\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T12:35:36.043Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
